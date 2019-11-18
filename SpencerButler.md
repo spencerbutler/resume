@@ -4,7 +4,7 @@
 - Minneapolis, MN
 ## Professional Experience 
 ### Honeycomb Internet Services => June 2017 - NOW()
-My time at Honeycomb  
+My time at Honeycomb has 
 
 - Systems Administrator
     - Linux, OpenBSD, FreeBSD
