@@ -25,12 +25,12 @@ At Reflected I
 ### Google Inc.                 => October 2006 - September 2009
 Working at Google was an amazing journey.  
 
-    - Data Center Technician 3
-        - Linux, FTOS
-        - Bash
-      - Lead multiple teams, turning up the Iowa datacenter
-      - Extensive work with the Platforms Dev Team
-      - Hardware Support for new Platform Introductions
-      - Lots and lots of documentation
+- Data Center Technician 3
+    - Linux, FTOS
+    - Bash
+  - Lead multiple teams, turning up the Iowa datacenter
+  - Extensive work with the Platforms Dev Team
+  - Hardware Support for new Platform Introductions
+  - Lots and lots of documentation
 ## References
 - Available per Request
