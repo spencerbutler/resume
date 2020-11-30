@@ -13,6 +13,9 @@
 - database administration
 
 ## Professional Experience
+### UPPER, LLC => November 2020 - Current
+#### Data Center Engineer
+- install, configure, and maintain server infrastructure
 
 ### Keller Williams Integrity Realty => May 2020 - October 2020
 #### Residential Real Estate Agent
