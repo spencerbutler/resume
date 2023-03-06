@@ -13,7 +13,14 @@
 - database administration
 
 ## Professional Experience
-### UPPER, LLC => November 2020 - Current
+### Honeycomb Internet Services => August 2021 - Current
+#### Unix System Administrator
+- Puppet development
+- Bash, Python Scripting
+- Automation development and configuration
+- Monitoring
+
+### UPPER, LLC => November 2020 - August 2021
 #### Data Center Engineer
 - install, configure, and maintain server infrastructure
 
