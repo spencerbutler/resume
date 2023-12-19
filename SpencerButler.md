@@ -9,11 +9,17 @@
 - puppet automation
 - LAMP server stack
 - load balancing
-- network/server monitoring
+- network/server/service monitoring
 - database administration
+- API development
 
 ## Professional Experience
-### Honeycomb Internet Services => August 2021 - Current
+### Twin Cities Open Systems => August 2001 - CURRENT
+- President and CEO
+- Consulting and project development
+- Custom software solutions
+
+### Honeycomb Internet Services => August 2021 - November 2023
 #### Unix System Administrator
 - Puppet development
 - Bash, Python Scripting
@@ -22,7 +28,7 @@
 
 ### UPPER, LLC => November 2020 - August 2021
 #### Data Center Engineer
-- install, configure, and maintain server infrastructure
+- Install, configure, and maintain server infrastructure
 
 ### Keller Williams Integrity Realty => May 2020 - October 2020
 #### Residential Real Estate Agent
@@ -30,12 +36,13 @@
 
 ### Honeycomb Internet Services => June 2017 - July 2020
 #### Unix System Administrator
-- utilized Check_MK (Nagios based) and LibreNMS to monitor server and network infrastructure
-- resolved customer related issues ranging from broken email accounts to broken web sites
+- Utilized Check_MK (Nagios based) and LibreNMS to monitor server and network infrastructure
+- Resolved customer related issues ranging from broken email accounts to broken web sites
 
 #### DevOps Engineer
- - developed puppet modules to automate the distribution of monitoring agents based on hardware and software specifications unique to each server
- - utilized python and bash to code monitoring plugins for Linux, OpenBSD, and FreeBSD
+- Developed puppet modules to automate the distribution of monitoring agents based on hardware and software specifications unique to each server
+- Utilized python and bash to code monitoring plugins for Linux, OpenBSD, and FreeBSD
+- Built a Flask based API for internal tools
 
 ### Personal Sabbatical => September 2015 - June 2017
 #### Personal Development
@@ -43,13 +50,13 @@
 
 ### Reflected Networks => July 2010 - September 2015
 #### Linux System Administrator
-  - worked with a globally diverse group of administrators to ensure 100% uptime for critical customer services
-  - leveraged HAProxy, Nginx, Apache, and MySQL to provide crucial services
-  - provided High traffic CDN origin using lightHTTPd
+- Worked with a globally diverse group of administrators to ensure 100% uptime for critical customer services
+- Leveraged HAProxy, Nginx, Apache, and MySQL to provide crucial services
+- Provided High traffic CDN origin using lightHTTPd
 
 ### Google Inc. => October 2006 - September 2009
 #### Data Center Technician 3
-  - Lead multiple teams, turning up the Iowa datacenter
-  - Extensive work with the Platforms Development Team
-  - Hardware Support for new Platform Introductions
-  - Lots and lots of documentation
+- Lead multiple teams, turning up the Iowa datacenter
+- Extensive work with the Platforms Development Team
+- Hardware Support for new Platform Introductions
+- Lots and lots of documentation
