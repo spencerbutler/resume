@@ -12,12 +12,17 @@
 - network/server/service monitoring
 - database administration
 - API development
+- startups
 
 ## Professional Experience
 ### Twin Cities Open Systems => August 2001 - CURRENT
 - President and CEO
 - Consulting and project development
 - Custom software solutions
+
+### Groq Inc. => July 2024 - CURRENT
+- Install and maintain Deterministic Inference Datacenters.
+- Implement and own HWOps Systems Documentation and Standardization.
 
 ### Honeycomb Internet Services => August 2021 - November 2023
 #### Unix System Administrator
